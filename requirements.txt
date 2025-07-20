@@ -1,0 +1,5 @@
+streamlit
+google-generativeai
+langchain-community
+qdrant-client
+sentence-transformers
